@@ -1,4 +1,14 @@
+<<<<<<< HEAD
+asdlsdlldsa
 osa
 sdksakdkd
 sadksdkskd
 sakdkds
+=======
+
+algo
+algo
+algo
+algo
+develop
+>>>>>>> develop
